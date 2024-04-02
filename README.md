@@ -30,7 +30,7 @@ A **[ChatGPT clone](https://sangvish.com/chatgpt-clone/)** is a ready-to-use sof
 * **Contextual Understanding -** Maintaining context during a conversation allows for more clear and appropriate responses.
 * **API Access -** API endpoints provide integration with third-party apps and services.
 * **Feedback Mechanism -** Collecting user input improves language model accuracy as well as performance over time.
-* **Security and Privacy - **Securing user data and maintaining compliance with privacy requires the implementation of strong security measures.
+* **Security and Privacy -** Securing user data and maintaining compliance with privacy requires the implementation of strong security measures.
 * **Documentation and Support -** Comprehensive documentation and continuous assistance for developers to deploy and manage the ChatGPT clone script.
 * **Continuous Learning -** The capacity to learn from fresh data and user interactions, enhancing model performance and flexibility.
 
