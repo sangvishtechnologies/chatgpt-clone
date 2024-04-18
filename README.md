@@ -58,7 +58,7 @@ Deciding on Sangvish ChatGPT Clone for building your conversational AI platform 
 
 Our ChatGPT clone script is more than a tool; it's an advanced platform that allows you to create a world-class conversational AI experience. Sangvish **[ChatGPT Clone Software,](https://sangvish.com/chatgpt-clone/)** with its ease of use, great performance, and dedication to user experience, is the ideal choice for taking your conversational AI platform to the next level.
 
-Discover - https://sangvish.com/chatgpt-clone/ 
+Click here for a **LIVE DEMO** of our ChatGPT clone, showcasing advanced conversational AI capabilities - https://sangvish.com/chatgpt-clone/ 
 
 ### Connect With Us!
 
